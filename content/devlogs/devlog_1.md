@@ -1,7 +1,7 @@
 +++
 title = "Devlog #1 - Villager : le tout, tout début !"
 slug = "devlog_1_villager_le_tout_debut"
-date = "2023-08-08"
+date = "2023-08-09"
 
 [extra]
 toc = true
