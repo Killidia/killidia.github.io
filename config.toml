@@ -15,3 +15,8 @@ header_nav = [
     { name = "/home/", url = "/" },
     { name = "/devlogs/", url = "/devlogs" },
 ]
+
+[markdown]
+highlight_code = true
+highlight_theme = "two-dark"
+
