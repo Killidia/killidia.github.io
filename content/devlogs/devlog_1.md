@@ -55,7 +55,7 @@ En tant que développeur, le choix du langage de programmation est essentiel pou
 
 ### Le moteur Bevy
 
-![bevy-game-engine](../images/devlog_1/bevy_logo_dark.svg)
+![bevy-game-engine](../images/devlog_1/bevy_logo_dark.png)
 
 C'est alors que j'ai découvert Bevy, une véritable perle rare répondant à tous mes critères et bien plus encore. Tout d'abord, Bevy est un moteur de jeu open source, ce qui signifie que je peux accéder à son code source et explorer en profondeur son fonctionnement interne, ce qui est crucial pour mon apprentissage.
 
